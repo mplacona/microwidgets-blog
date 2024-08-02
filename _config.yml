@@ -18,10 +18,10 @@ baseurl: "/blog" # The subpath of your site
 title: MicroWidgets Blog
 description: >-
   Add powerful widgets to your website with one click
-
+logo: "/assets/images/logo.png"
 twitter_username: marcos_placona
 github_username: mplacona
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: dirt
 search: true
 
 # Build settings
@@ -60,9 +60,9 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name: "Marcos Placona"
-  avatar: "/assets/images/marcos.jpeg"
-  bio: "My awesome biography constrained to a sentence or two goes here."
+  name: "MicroWidgets"
+  avatar: "/assets/images/icon.png"
+  bio: "One-click HTML Widgets for developers who'd rather code than configure"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
