@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-url: "https://424242222.xyz" # Your main domain
+url: "https://microwidgets.dev" # Your main domain
 baseurl: "/blog" # The subpath of your site
 title: MicroWidgets Blog
 description: >-
@@ -68,7 +68,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://MicroWidgets.dev"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-brands fa-x-twitter"
       url: "https://twitter.com/marcos_placona"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
@@ -77,11 +77,14 @@ author:
 footer:
   links:
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa-brands fa-x-twitter"
       url: "https://twitter.com/marcos_placona"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mplacona"
+
+atom_feed:
+  hide: true
 
 defaults:
   # _posts
