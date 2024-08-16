@@ -17,7 +17,7 @@ url: "https://microwidgets.dev" # Your main domain
 baseurl: "/blog" # The subpath of your site
 title: MicroWidgets Blog
 description: >-
-  Add powerful widgets to your website with one click
+  One-click website upgrades for developers who'd rather code. Auto-update GitHub activity, customer counts, and status info. No redeploys. Save time.
 logo: "/assets/images/logo.png"
 twitter_username: marcos_placona
 github_username: mplacona
