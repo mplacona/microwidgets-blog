@@ -1,5 +1,5 @@
 ---
-title: "Make a Website Widget: Boost Your Site with MicroWidgets"
+title: "Make a Website Widget: Boost Your Site"
 date: 2024-08-02T19:44:24-00:00
 categories:
   - Developer Tools

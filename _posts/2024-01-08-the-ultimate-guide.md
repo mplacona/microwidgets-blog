@@ -1,5 +1,5 @@
 ---
-title: "Ultimate HTML Widgets Guide: Enhance Your Website Easily"
+title: "Ultimate HTML Widgets Guide: Boost Your Site"
 date: 2024-08-01T20:44:24-00:00
 categories:
   - Developer Tools
